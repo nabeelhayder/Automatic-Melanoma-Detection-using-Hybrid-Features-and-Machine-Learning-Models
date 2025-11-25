@@ -1,4 +1,5 @@
 # 🩺 Melanoma Detection Using Hybrid Features & Machine Learning
+A hybrid-feature melanoma detection pipeline combining advanced image preprocessing, handcrafted features, and multiple machine learning classifiers. Designed to deliver accurate and efficient skin cancer recognition.
 
 A complete machine learning pipeline for melanoma classification using hybrid texture, color, morphological, and intensity features.  
 All executable code exists inside **one Python file**.
