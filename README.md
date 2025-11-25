@@ -99,4 +99,23 @@ Using precomputed features greatly speeds up training.
 ### 1. Install dependencies
 ```bash
 pip install -r requirements.txt
+```
 
+### 2. Run the main script
+python Notebook/melanoma.py
+---
+
+### Future Work
+Add CNN-based deep learning
+Add Random Forest & XGBoost
+Build a Streamlit UI
+Add explainability (Grad-CAM, SHAP)
+Deploy the system using FastAPI or Flask
+
+### References
+Full research documentation:
+📄 References/Report.pdf
+
+### License
+This project is licensed under the MIT License.
+You are free to modify and use it with attribution.
