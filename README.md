@@ -32,8 +32,8 @@ All code is inside:
 
 ## 📂 Project Structure
 
-### **Unified Folder + Files Tree**
 <img width="318" height="288" alt="image" src="https://github.com/user-attachments/assets/79b69d9e-6145-4a72-922e-3c640bc1681f" />
+
 ---
 
 ## 📦 Dataset Description
